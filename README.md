@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sakshi
 
-💻 **WordPress Developer | Full Stack Enthusiast** 
+💻 **WordPress Developer | Full Stack Enthusiast** <br>
 🚀 I specialize in building **fast, interactive, and dynamic** WordPress websites using **custom themes, Elementor, and GSAP animations**.
 
 ## 🛠 **Tech Stack**
