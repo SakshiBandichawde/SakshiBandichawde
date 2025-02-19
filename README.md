@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Sakshi
 
-<!--
-**SakshiBandichawde/SakshiBandichawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **WordPress Developer | Full Stack Enthusiast** 
+🚀 I specialize in building **fast, interactive, and dynamic** WordPress websites using **custom themes, Elementor, and GSAP animations**.
 
-Here are some ideas to get you started:
+## 🛠 **Tech Stack**
+- **WordPress** | Elementor | WooCommerce  
+- **React JS** | **GSAP** | **JavaScript** | HTML | CSS
+- **MongoDB** | SQL | JAVA | DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 **Experience**
+🔹 **WordPress Developer @ Advolve** (July 2023 - Present)  
+📌 Developed custom WordPress themes and optimized website performance.  
+📌 Integrated animations using GSAP and built interactive UI components.  
+📌 Worked with Elementor and ACF for dynamic content management.  
+ 
